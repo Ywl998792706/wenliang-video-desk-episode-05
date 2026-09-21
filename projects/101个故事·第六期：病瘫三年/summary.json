@@ -1,27 +1,29 @@
 {
-  "episode": "06",
-  "title": "第六期｜病瘫三年：从书中找到重新出发的能量",
-  "source_file": "第六期字幕.txt",
-  "source_sha256": "bab8cf8e986b1dc7f0070fff22fb88f143863563bd5d7c98e441ca9ade3172f4",
-  "effective_chars": 1759,
-  "estimated_seconds": 439.75,
-  "primary_shots": 46,
-  "huazi": 35,
-  "coverage": 0.39,
-  "expression_methods": {
-    "reenactment": 29,
-    "object_metaphor": 12,
-    "infographic": 5
-  },
-  "ai_reconstructions": 22,
-  "named_asset_shots": 19,
-  "keyframes": 46,
-  "qa_score": 100,
-  "qa_passed": true,
-  "warnings": [
-    "统计信息：有效字符1759，参考主镜头35、计划区间44–48、实际46，目标花字35、实际35，主B-roll覆盖率39.0%"
-  ],
-  "schema_version": "3.5",
-  "aspect_ratio": "16:9",
-  "keyframes_identity_reference_missing": 19
+    "episode":  "06",
+    "title":  "第六期｜病瘫三年：从书中找到重新出发的能量",
+    "source_file":  "第六期字幕.txt",
+    "source_sha256":  "bab8cf8e986b1dc7f0070fff22fb88f143863563bd5d7c98e441ca9ade3172f4",
+    "effective_chars":  1759,
+    "estimated_seconds":  439.75,
+    "primary_shots":  46,
+    "huazi":  35,
+    "coverage":  0.39,
+    "expression_methods":  {
+                               "reenactment":  29,
+                               "object_metaphor":  12,
+                               "infographic":  5
+                           },
+    "ai_reconstructions":  22,
+    "named_asset_shots":  19,
+    "keyframes":  46,
+    "qa_score":  100,
+    "qa_passed":  true,
+    "warnings":  [
+                     "统计信息：有效字符1759，参考主镜头35、计划区间44–48、实际46，目标花字35、实际35，主B-roll覆盖率39.0%"
+                 ],
+    "schema_version":  "3.6",
+    "aspect_ratio":  "16:9",
+    "keyframes_identity_reference_missing":  19,
+    "skill_version":  "3.8",
+    "historical_story_backgrounds":  22
 }
