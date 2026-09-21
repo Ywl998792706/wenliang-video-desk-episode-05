@@ -1,0 +1,72 @@
+{
+  "schema_version": "1.1",
+  "plan_schema_version": "3.4",
+  "passed": true,
+  "score": 100,
+  "metrics": {
+    "primary_shots": 50,
+    "distinct_visual_concepts": 50,
+    "distinct_novelty_keys": 50,
+    "shot_size_distribution": {
+      "桌面中近景": 7,
+      "中景双人关系构图": 8,
+      "俯拍全景": 2,
+      "中近景单主体": 4,
+      "物件特写": 3,
+      "近景与手部细节": 5,
+      "全身中远景": 2,
+      "环境全景转人物中景": 6,
+      "主物中景与材质细节": 4,
+      "中心结构中景": 3,
+      "上下分层全景": 3,
+      "左右对照中景": 1,
+      "全画幅结构全景": 2
+    },
+    "camera_angle_distribution": {
+      "三十度侧俯拍": 7,
+      "与桌面齐高的侧前方机位": 8,
+      "垂直俯拍无透视变形": 2,
+      "肩后视角对准主动作": 4,
+      "低机位与物件齐平": 3,
+      "略低于视线的侧拍机位": 5,
+      "略偏轴线的平视机位": 2,
+      "平视三分之二侧面": 6,
+      "四十五度侧前方机位": 4,
+      "正视居中机位": 3,
+      "正视对称机位": 3,
+      "正视平行机位": 1,
+      "正视无透视机位": 2
+    },
+    "text_visual_alignment": {
+      "passed": 50,
+      "total": 50
+    },
+    "necessity_gate": {
+      "passed": 50,
+      "total": 50
+    },
+    "prompt_mode_independence": {
+      "passed": 50,
+      "total": 50
+    },
+    "jimeng_feasibility": {
+      "passed": 50,
+      "total": 50
+    },
+    "continuity": {
+      "passed_group_members": 9,
+      "groups": 2
+    },
+    "ai_risk_control": {
+      "passed": 50,
+      "total": 50
+    },
+    "execution_complete": {
+      "passed": 50,
+      "total": 50
+    },
+    "errors": 0,
+    "warnings": 0
+  },
+  "issues": []
+}

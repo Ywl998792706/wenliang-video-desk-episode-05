@@ -1,0 +1,27 @@
+{
+  "episode": "04",
+  "title": "第四期｜实业报国的种子：十五岁遇见人生标杆",
+  "source_file": "第四期字幕.txt",
+  "source_sha256": "c724f095ed13e31d3e667458ab87c458f5309604ae4698744a7caba3a3cc81d9",
+  "effective_chars": 2222,
+  "estimated_seconds": 555.5,
+  "primary_shots": 50,
+  "huazi": 44,
+  "coverage": 0.3357,
+  "expression_methods": {
+    "reenactment": 46,
+    "infographic": 1,
+    "object_metaphor": 3
+  },
+  "ai_reconstructions": 12,
+  "named_asset_shots": 10,
+  "keyframes": 50,
+  "qa_score": 100,
+  "qa_passed": true,
+  "warnings": [
+    "统计信息：有效字符2222，参考主镜头44、计划区间48–52、实际50，目标花字44、实际44，主B-roll覆盖率33.6%"
+  ],
+  "schema_version": "3.5",
+  "aspect_ratio": "16:9",
+  "keyframes_identity_reference_missing": 10
+}

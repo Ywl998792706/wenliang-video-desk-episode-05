@@ -1,0 +1,142 @@
+[
+  {
+    "shot_id": "shot-001",
+    "reference_key": "young",
+    "prompt": "Use case: historical-scene\nAsset type: 第五期《病魔缠身》视频脚本逐镜关键帧\nInput images: Image 1: 茅理翔青年时期样貌参考，仅负责面部与体态连续性；\nPrimary request: 寒门少年的录取喜讯。十八岁的青年在老式砖瓦房木桌旁展开录取通知，家人围拢露出克制而真切的喜悦。\nScene/backdrop: 1959年前后慈溪乡村砖瓦房堂屋。故事背景：1959年前后，浙江慈溪乡村，人物年龄18岁，考上慈溪中学，全家人高兴。时代细节：1959年前后慈溪乡村砖瓦房堂屋；建筑、门窗、床铺、桌椅均保持20世纪60年代浙东朴素生活质感；光线为窗外自然光与室内煤油灯余光；服装为20世纪60年代初浙东朴素蓝灰棉布衣裤、布鞋，不使用现代剪裁与面料；道具包括纸质录取通知、旧木桌、煤油灯。时代禁忌：避免智能手机、LED大屏、现代病房设备、现代高层住宅、现代塑料家具、当代潮流服饰。\nSubject: 18岁青年茅理翔与家人；定格动作结果：青年双手展开纸质录取通知。\nStyle/medium: 真实中国人物纪实摄影，photorealistic，暖金克制，非广告摆拍。\nComposition/framing: 横屏16:9，中景，门框侧前方平视，主体位于字幕安全区。\nLighting/mood: 窗外自然光与室内煤油灯余光，惊喜与珍惜。\nMaterials/textures: 真实皮肤、磨损棉布、旧木材和自然生活痕迹。\nConstraints: no text, no captions, no logo, no watermark, no split screen; single coherent moment; natural hands and body proportions; AI visual reconstruction, not an archival photograph; keep identity restrained and period-accurate. Avoid: 智能手机, LED大屏, 现代病房设备, 现代高层住宅, 现代塑料家具, 当代潮流服饰, plastic skin, extra fingers, glamour lighting, staged stock-photo look"
+  },
+  {
+    "shot_id": "shot-002",
+    "reference_key": "young",
+    "prompt": "Use case: historical-scene\nAsset type: 第五期《病魔缠身》视频脚本逐镜关键帧\nInput images: Image 1: 茅理翔青年时期样貌参考，仅负责面部与体态连续性；\nPrimary request: 课堂外突然失去行走能力。青年在老校舍走廊扶住斑驳墙面，双腿疼痛无力，课本掉落在青砖地上。\nScene/backdrop: 1960年前后慈溪中学校舍走廊。故事背景：1960年前后，浙江慈溪中学，人物年龄约19岁，高二时突患类风湿性关节炎，不能行走。时代细节：1960年前后慈溪中学校舍走廊；建筑、门窗、床铺、桌椅均保持20世纪60年代浙东朴素生活质感；光线为阴天冷光混合走廊暖反光；服装为20世纪60年代初浙东朴素蓝灰棉布衣裤、布鞋，不使用现代剪裁与面料；道具包括旧课本、木凳、青砖地面。时代禁忌：避免智能手机、LED大屏、现代病房设备、现代高层住宅、现代塑料家具、当代潮流服饰。\nSubject: 18至19岁青年茅理翔；定格动作结果：扶墙后缓慢坐到木凳边。\nStyle/medium: 真实中国人物纪实摄影，photorealistic，暖金克制，非广告摆拍。\nComposition/framing: 横屏16:9，全身中远景，低机位侧拍，主体位于字幕安全区。\nLighting/mood: 阴天冷光混合走廊暖反光，突发与错愕。\nMaterials/textures: 真实皮肤、磨损棉布、旧木材和自然生活痕迹。\nConstraints: no text, no captions, no logo, no watermark, no split screen; single coherent moment; natural hands and body proportions; AI visual reconstruction, not an archival photograph; keep identity restrained and period-accurate. Avoid: 智能手机, LED大屏, 现代病房设备, 现代高层住宅, 现代塑料家具, 当代潮流服饰, plastic skin, extra fingers, glamour lighting, staged stock-photo look"
+  },
+  {
+    "shot_id": "shot-003",
+    "reference_key": "young",
+    "prompt": "Use case: historical-scene\nAsset type: 第五期《病魔缠身》视频脚本逐镜关键帧\nInput images: Image 1: 茅理翔青年时期样貌参考，仅负责面部与体态连续性；\nPrimary request: 父亲搀扶赴院。父亲用双臂稳稳搀扶不能行走的青年，走向1960年代朴素医院入口。\nScene/backdrop: 1960年代绍兴市属医院朴素门廊。故事背景：1960年前后，浙江绍兴，人物年龄约19岁，父亲带他到绍兴二院住院治疗。时代细节：1960年代绍兴市属医院朴素门廊；建筑、门窗、床铺、桌椅均保持20世纪60年代浙东朴素生活质感；光线为冬日灰白天光；服装为20世纪60年代初浙东朴素蓝灰棉布衣裤、布鞋，不使用现代剪裁与面料；道具包括旧帆布包、木质门窗、搪瓷用品。时代禁忌：避免智能手机、LED大屏、现代病房设备、现代高层住宅、现代塑料家具、当代潮流服饰。\nSubject: 青年茅理翔与父亲；定格动作结果：父亲扶着青年跨过医院门槛。\nStyle/medium: 真实中国人物纪实摄影，photorealistic，暖金克制，非广告摆拍。\nComposition/framing: 横屏16:9，中远景，背后侧拍，主体位于字幕安全区。\nLighting/mood: 冬日灰白天光，焦急而坚定。\nMaterials/textures: 真实皮肤、磨损棉布、旧木材和自然生活痕迹。\nConstraints: no text, no captions, no logo, no watermark, no split screen; single coherent moment; natural hands and body proportions; AI visual reconstruction, not an archival photograph; keep identity restrained and period-accurate. Avoid: 智能手机, LED大屏, 现代病房设备, 现代高层住宅, 现代塑料家具, 当代潮流服饰, plastic skin, extra fingers, glamour lighting, staged stock-photo look"
+  },
+  {
+    "shot_id": "shot-004",
+    "reference_key": "young",
+    "prompt": "Use case: historical-scene\nAsset type: 第五期《病魔缠身》视频脚本逐镜关键帧\nInput images: Image 1: 茅理翔青年时期样貌参考，仅负责面部与体态连续性；\nPrimary request: 三个月后的第一步。青年扶着木制助行杆在旧病房走廊迈出谨慎的一步，父亲在一旁护住他的手臂。\nScene/backdrop: 1960年代县市医院走廊。故事背景：1960年前后，绍兴二院病房，人物年龄约19岁，住院三个月后能下地，但病未断根。时代细节：1960年代县市医院走廊；建筑、门窗、床铺、桌椅均保持20世纪60年代浙东朴素生活质感；光线为高窗柔和自然侧光；服装为20世纪60年代初浙东朴素蓝灰棉布衣裤、布鞋，不使用现代剪裁与面料；道具包括木制助行杆、搪瓷杯、旧式铁床。时代禁忌：避免智能手机、LED大屏、现代病房设备、现代高层住宅、现代塑料家具、当代潮流服饰。\nSubject: 青年茅理翔与父亲；定格动作结果：青年借助木杆迈出第一步。\nStyle/medium: 真实中国人物纪实摄影，photorealistic，暖金克制，非广告摆拍。\nComposition/framing: 横屏16:9，脚部与半身近景，膝部高度侧拍，主体位于字幕安全区。\nLighting/mood: 高窗柔和自然侧光，希望中带着疼痛。\nMaterials/textures: 真实皮肤、磨损棉布、旧木材和自然生活痕迹。\nConstraints: no text, no captions, no logo, no watermark, no split screen; single coherent moment; natural hands and body proportions; AI visual reconstruction, not an archival photograph; keep identity restrained and period-accurate. Avoid: 智能手机, LED大屏, 现代病房设备, 现代高层住宅, 现代塑料家具, 当代潮流服饰, plastic skin, extra fingers, glamour lighting, staged stock-photo look"
+  },
+  {
+    "shot_id": "shot-005",
+    "reference_key": "young",
+    "prompt": "Use case: historical-scene\nAsset type: 第五期《病魔缠身》视频脚本逐镜关键帧\nInput images: Image 1: 茅理翔青年时期样貌参考，仅负责面部与体态连续性；\nPrimary request: 煤油灯下的债务账本。煤油灯照亮旧木桌上的手写账本和零散纸币，青年把课本与账本并排压住。\nScene/backdrop: 1960年代慈溪乡村砖瓦房夜晚。故事背景：1960年前后，浙江慈溪家中，人物年龄约19岁，得知家中负债，决定工作还债。时代细节：1960年代慈溪乡村砖瓦房夜晚；建筑、门窗、床铺、桌椅均保持20世纪60年代浙东朴素生活质感；光线为煤油灯暖光，四周自然暗部；服装为20世纪60年代初浙东朴素蓝灰棉布衣裤、布鞋，不使用现代剪裁与面料；道具包括煤油灯、手写账本、旧课本、纸币。时代禁忌：避免智能手机、LED大屏、现代病房设备、现代高层住宅、现代塑料家具、当代潮流服饰。\nSubject: 青年茅理翔的手与家庭账本；定格动作结果：青年把课本推到一旁并按住债务账本。\nStyle/medium: 真实中国人物纪实摄影，photorealistic，暖金克制，非广告摆拍。\nComposition/framing: 横屏16:9，手部俯拍特写，桌面斜俯拍，主体位于字幕安全区。\nLighting/mood: 煤油灯暖光，四周自然暗部，沉重与担当。\nMaterials/textures: 真实皮肤、磨损棉布、旧木材和自然生活痕迹。\nConstraints: no text, no captions, no logo, no watermark, no split screen; single coherent moment; natural hands and body proportions; AI visual reconstruction, not an archival photograph; keep identity restrained and period-accurate. Avoid: 智能手机, LED大屏, 现代病房设备, 现代高层住宅, 现代塑料家具, 当代潮流服饰, plastic skin, extra fingers, glamour lighting, staged stock-photo look"
+  },
+  {
+    "shot_id": "shot-006",
+    "reference_key": "young",
+    "prompt": "Use case: historical-scene\nAsset type: 第五期《病魔缠身》视频脚本逐镜关键帧\nInput images: Image 1: 茅理翔青年时期样貌参考，仅负责面部与体态连续性；\nPrimary request: 带着病痛走上讲台。青年抱着课本进入朴素中学教室，木课桌与黑板构成真实的1960年代教学空间。\nScene/backdrop: 1960年代天元中学木桌教室。故事背景：1960年前后，浙江慈溪天元中学，人物年龄约19至20岁，为还债到天元中学教书。时代细节：1960年代天元中学木桌教室；建筑、门窗、床铺、桌椅均保持20世纪60年代浙东朴素生活质感；光线为左侧高窗自然光；服装为20世纪60年代初浙东朴素蓝灰棉布衣裤、布鞋，不使用现代剪裁与面料；道具包括粉笔、木课桌、旧课本、木椅。时代禁忌：避免智能手机、LED大屏、现代病房设备、现代高层住宅、现代塑料家具、当代潮流服饰。\nSubject: 青年教师茅理翔；定格动作结果：青年把课本放到讲台边的木椅上。\nStyle/medium: 真实中国人物纪实摄影，photorealistic，暖金克制，非广告摆拍。\nComposition/framing: 横屏16:9，教室全景，学生视角平视，主体位于字幕安全区。\nLighting/mood: 左侧高窗自然光，克制与责任。\nMaterials/textures: 真实皮肤、磨损棉布、旧木材和自然生活痕迹。\nConstraints: no text, no captions, no logo, no watermark, no split screen; single coherent moment; natural hands and body proportions; AI visual reconstruction, not an archival photograph; keep identity restrained and period-accurate. Avoid: 智能手机, LED大屏, 现代病房设备, 现代高层住宅, 现代塑料家具, 当代潮流服饰, plastic skin, extra fingers, glamour lighting, staged stock-photo look"
+  },
+  {
+    "shot_id": "shot-007",
+    "reference_key": "young",
+    "prompt": "Use case: historical-scene\nAsset type: 第五期《病魔缠身》视频脚本逐镜关键帧\nInput images: Image 1: 茅理翔青年时期样貌参考，仅负责面部与体态连续性；\nPrimary request: 坐着完成一堂课。青年教师因关节疼痛坐在木椅上讲课，一手扶讲义，一手指向无字黑板示意图。\nScene/backdrop: 1960年代天元中学教室。故事背景：1960至1962年前后，浙江慈溪天元中学，人物年龄约20岁，关节炎未愈，只能坐着讲课。时代细节：1960年代天元中学教室；建筑、门窗、床铺、桌椅均保持20世纪60年代浙东朴素生活质感；光线为窗边暖白自然光；服装为20世纪60年代初浙东朴素蓝灰棉布衣裤、布鞋，不使用现代剪裁与面料；道具包括木椅、粉笔、讲义、旧式黑板。时代禁忌：避免智能手机、LED大屏、现代病房设备、现代高层住宅、现代塑料家具、当代潮流服饰。\nSubject: 青年教师茅理翔与学生；定格动作结果：青年坐着抬手指向黑板。\nStyle/medium: 真实中国人物纪实摄影，photorealistic，暖金克制，非广告摆拍。\nComposition/framing: 横屏16:9，中景，教室侧后方平视，主体位于字幕安全区。\nLighting/mood: 窗边暖白自然光，隐忍与专注。\nMaterials/textures: 真实皮肤、磨损棉布、旧木材和自然生活痕迹。\nConstraints: no text, no captions, no logo, no watermark, no split screen; single coherent moment; natural hands and body proportions; AI visual reconstruction, not an archival photograph; keep identity restrained and period-accurate. Avoid: 智能手机, LED大屏, 现代病房设备, 现代高层住宅, 现代塑料家具, 当代潮流服饰, plastic skin, extra fingers, glamour lighting, staged stock-photo look"
+  },
+  {
+    "shot_id": "shot-008",
+    "reference_key": "young",
+    "prompt": "Use case: historical-scene\nAsset type: 第五期《病魔缠身》视频脚本逐镜关键帧\nInput images: Image 1: 茅理翔青年时期样貌参考，仅负责面部与体态连续性；\nPrimary request: 两年后病情复发。青年教师的粉笔从手中落下，他扶住膝关节坐在空教室里，疼痛明显加重。\nScene/backdrop: 1962年前后放学后的旧教室。故事背景：1962年前后，浙江慈溪，人物年龄约22岁，任教两年后关节炎严重复发。时代细节：1962年前后放学后的旧教室；建筑、门窗、床铺、桌椅均保持20世纪60年代浙东朴素生活质感；光线为傍晚窗光与深灰阴影；服装为20世纪60年代初浙东朴素蓝灰棉布衣裤、布鞋，不使用现代剪裁与面料；道具包括断裂粉笔、木椅、讲义。时代禁忌：避免智能手机、LED大屏、现代病房设备、现代高层住宅、现代塑料家具、当代潮流服饰。\nSubject: 约22岁青年茅理翔；定格动作结果：青年松开粉笔并扶住膝部。\nStyle/medium: 真实中国人物纪实摄影，photorealistic，暖金克制，非广告摆拍。\nComposition/framing: 横屏16:9，半身近景，侧前方平视，主体位于字幕安全区。\nLighting/mood: 傍晚窗光与深灰阴影，突如其来的挫败。\nMaterials/textures: 真实皮肤、磨损棉布、旧木材和自然生活痕迹。\nConstraints: no text, no captions, no logo, no watermark, no split screen; single coherent moment; natural hands and body proportions; AI visual reconstruction, not an archival photograph; keep identity restrained and period-accurate. Avoid: 智能手机, LED大屏, 现代病房设备, 现代高层住宅, 现代塑料家具, 当代潮流服饰, plastic skin, extra fingers, glamour lighting, staged stock-photo look"
+  },
+  {
+    "shot_id": "shot-009",
+    "reference_key": "young",
+    "prompt": "Use case: historical-scene\nAsset type: 第五期《病魔缠身》视频脚本逐镜关键帧\nInput images: Image 1: 茅理翔青年时期样貌参考，仅负责面部与体态连续性；\nPrimary request: 六个月无法下床。消瘦青年躺在砖瓦房内的旧木床上，床边布鞋整齐摆放却长久无人触碰。\nScene/backdrop: 1962至1964年前后慈溪乡村卧室。故事背景：1962至1964年前后，浙江慈溪家中，人物年龄22至23岁，重病卧床六个月，不能下地。时代细节：1962至1964年前后慈溪乡村卧室；建筑、门窗、床铺、桌椅均保持20世纪60年代浙东朴素生活质感；光线为小窗冷光与煤油灯暖光交叠；服装为20世纪60年代初浙东朴素蓝灰棉布衣裤、布鞋，不使用现代剪裁与面料；道具包括旧木床、粗布被褥、布鞋、煤油灯。时代禁忌：避免智能手机、LED大屏、现代病房设备、现代高层住宅、现代塑料家具、当代潮流服饰。\nSubject: 22至23岁青年茅理翔；定格动作结果：青年试着撑起上身又无力躺回。\nStyle/medium: 真实中国人物纪实摄影，photorealistic，暖金克制，非广告摆拍。\nComposition/framing: 横屏16:9，房间中远景，门口静观视角，主体位于字幕安全区。\nLighting/mood: 小窗冷光与煤油灯暖光交叠，漫长煎熬。\nMaterials/textures: 真实皮肤、磨损棉布、旧木材和自然生活痕迹。\nConstraints: no text, no captions, no logo, no watermark, no split screen; single coherent moment; natural hands and body proportions; AI visual reconstruction, not an archival photograph; keep identity restrained and period-accurate. Avoid: 智能手机, LED大屏, 现代病房设备, 现代高层住宅, 现代塑料家具, 当代潮流服饰, plastic skin, extra fingers, glamour lighting, staged stock-photo look"
+  },
+  {
+    "shot_id": "shot-010",
+    "reference_key": "young",
+    "prompt": "Use case: historical-scene\nAsset type: 第五期《病魔缠身》视频脚本逐镜关键帧\nInput images: Image 1: 茅理翔青年时期样貌参考，仅负责面部与体态连续性；\nPrimary request: 胸膜炎加重病情。青年侧身咳嗽，手中白色旧棉布留下少量暗红血迹，画面克制不血腥。\nScene/backdrop: 1960年代乡村卧室床边。故事背景：1962至1964年前后，浙江慈溪家中，人物年龄22至23岁，病中又患胸膜炎并咳血。时代细节：1960年代乡村卧室床边；建筑、门窗、床铺、桌椅均保持20世纪60年代浙东朴素生活质感；光线为阴雨天窗光；服装为20世纪60年代初浙东朴素蓝灰棉布衣裤、布鞋，不使用现代剪裁与面料；道具包括旧棉布、搪瓷水杯、粗布被褥。时代禁忌：避免智能手机、LED大屏、现代病房设备、现代高层住宅、现代塑料家具、当代潮流服饰。\nSubject: 22至23岁青年茅理翔；定格动作结果：青年用棉布掩住咳嗽后低头看见血迹。\nStyle/medium: 真实中国人物纪实摄影，photorealistic，暖金克制，非广告摆拍。\nComposition/framing: 横屏16:9，手部与侧脸近景，床沿侧拍，主体位于字幕安全区。\nLighting/mood: 阴雨天窗光，惊惧与虚弱。\nMaterials/textures: 真实皮肤、磨损棉布、旧木材和自然生活痕迹。\nConstraints: no text, no captions, no logo, no watermark, no split screen; single coherent moment; natural hands and body proportions; AI visual reconstruction, not an archival photograph; keep identity restrained and period-accurate. Avoid: 智能手机, LED大屏, 现代病房设备, 现代高层住宅, 现代塑料家具, 当代潮流服饰, plastic skin, extra fingers, glamour lighting, staged stock-photo look"
+  },
+  {
+    "shot_id": "shot-011",
+    "reference_key": "young",
+    "prompt": "Use case: historical-scene\nAsset type: 第五期《病魔缠身》视频脚本逐镜关键帧\nInput images: Image 1: 茅理翔青年时期样貌参考，仅负责面部与体态连续性；\nPrimary request: 青春最盛时形销骨立。青年瘦削的手腕搭在粗布被褥上，旁边是一碗几乎未动的稀粥，身体虚弱但不猎奇。\nScene/backdrop: 1960年代慈溪乡村卧室。故事背景：1962至1964年前后，浙江慈溪家中，人物年龄22至23岁，青年时期重病消瘦。时代细节：1960年代慈溪乡村卧室；建筑、门窗、床铺、桌椅均保持20世纪60年代浙东朴素生活质感；光线为低饱和自然窗光；服装为20世纪60年代初浙东朴素蓝灰棉布衣裤、布鞋，不使用现代剪裁与面料；道具包括粗瓷碗、稀粥、粗布被褥。时代禁忌：避免智能手机、LED大屏、现代病房设备、现代高层住宅、现代塑料家具、当代潮流服饰。\nSubject: 22至23岁青年茅理翔的手与半侧身；定格动作结果：青年缓慢把手从饭碗边收回。\nStyle/medium: 真实中国人物纪实摄影，photorealistic，暖金克制，非广告摆拍。\nComposition/framing: 横屏16:9，手腕与器物特写，床头斜俯拍，主体位于字幕安全区。\nLighting/mood: 低饱和自然窗光，虚弱与无助。\nMaterials/textures: 真实皮肤、磨损棉布、旧木材和自然生活痕迹。\nConstraints: no text, no captions, no logo, no watermark, no split screen; single coherent moment; natural hands and body proportions; AI visual reconstruction, not an archival photograph; keep identity restrained and period-accurate. Avoid: 智能手机, LED大屏, 现代病房设备, 现代高层住宅, 现代塑料家具, 当代潮流服饰, plastic skin, extra fingers, glamour lighting, staged stock-photo look"
+  },
+  {
+    "shot_id": "shot-012",
+    "reference_key": "young",
+    "prompt": "Use case: historical-scene\nAsset type: 第五期《病魔缠身》视频脚本逐镜关键帧\nInput images: Image 1: 茅理翔青年时期样貌参考，仅负责面部与体态连续性；\nPrimary request: 希望几乎熄灭。青年背对镜头望向低矮小窗，窗外是阴沉屋檐，床边煤油灯只剩微弱火苗。\nScene/backdrop: 1960年代慈溪砖瓦房卧室。故事背景：1962至1964年前后，浙江慈溪家中，人物年龄22至23岁，长期卧床后感到没有希望。时代细节：1960年代慈溪砖瓦房卧室；建筑、门窗、床铺、桌椅均保持20世纪60年代浙东朴素生活质感；光线为窗外冷灰光与微弱煤油灯；服装为20世纪60年代初浙东朴素蓝灰棉布衣裤、布鞋，不使用现代剪裁与面料；道具包括煤油灯、木格窗、旧木床。时代禁忌：避免智能手机、LED大屏、现代病房设备、现代高层住宅、现代塑料家具、当代潮流服饰。\nSubject: 22至23岁青年茅理翔；定格动作结果：青年缓慢垂下望向窗外的目光。\nStyle/medium: 真实中国人物纪实摄影，photorealistic，暖金克制，非广告摆拍。\nComposition/framing: 横屏16:9，背影中景，床尾平视，主体位于字幕安全区。\nLighting/mood: 窗外冷灰光与微弱煤油灯，绝望与沉默。\nMaterials/textures: 真实皮肤、磨损棉布、旧木材和自然生活痕迹。\nConstraints: no text, no captions, no logo, no watermark, no split screen; single coherent moment; natural hands and body proportions; AI visual reconstruction, not an archival photograph; keep identity restrained and period-accurate. Avoid: 智能手机, LED大屏, 现代病房设备, 现代高层住宅, 现代塑料家具, 当代潮流服饰, plastic skin, extra fingers, glamour lighting, staged stock-photo look"
+  },
+  {
+    "shot_id": "shot-013",
+    "reference_key": "young",
+    "prompt": "Use case: historical-scene\nAsset type: 第五期《病魔缠身》视频脚本逐镜关键帧\nInput images: Image 1: 茅理翔青年时期样貌参考，仅负责面部与体态连续性；\nPrimary request: 含泪向母亲说出绝望。青年躺在床上偏过脸，眼含泪光，母亲坐在床边安静握住他的手。\nScene/backdrop: 1960年代慈溪乡村卧室。故事背景：1962至1964年前后，浙江慈溪家中，人物年龄22至23岁，含泪告诉母亲自己可能没有希望。时代细节：1960年代慈溪乡村卧室；建筑、门窗、床铺、桌椅均保持20世纪60年代浙东朴素生活质感；光线为煤油灯从侧后方照亮轮廓；服装为20世纪60年代初浙东朴素蓝灰棉布衣裤、布鞋，不使用现代剪裁与面料；道具包括煤油灯、粗布被褥、木床。时代禁忌：避免智能手机、LED大屏、现代病房设备、现代高层住宅、现代塑料家具、当代潮流服饰。\nSubject: 青年茅理翔与母亲；定格动作结果：青年转过脸看向母亲。\nStyle/medium: 真实中国人物纪实摄影，photorealistic，暖金克制，非广告摆拍。\nComposition/framing: 横屏16:9，双人近景，母亲肩后视角，主体位于字幕安全区。\nLighting/mood: 煤油灯从侧后方照亮轮廓，悲痛与依恋。\nMaterials/textures: 真实皮肤、磨损棉布、旧木材和自然生活痕迹。\nConstraints: no text, no captions, no logo, no watermark, no split screen; single coherent moment; natural hands and body proportions; AI visual reconstruction, not an archival photograph; keep identity restrained and period-accurate. Avoid: 智能手机, LED大屏, 现代病房设备, 现代高层住宅, 现代塑料家具, 当代潮流服饰, plastic skin, extra fingers, glamour lighting, staged stock-photo look"
+  },
+  {
+    "shot_id": "shot-014",
+    "reference_key": "young",
+    "prompt": "Use case: historical-scene\nAsset type: 第五期《病魔缠身》视频脚本逐镜关键帧\nInput images: Image 1: 茅理翔青年时期样貌参考，仅负责面部与体态连续性；\nPrimary request: 母亲的手把希望按回心中。母亲俯身握紧青年的手，目光坚定，青年从被褥中回望母亲。\nScene/backdrop: 1960年代慈溪乡村卧室。故事背景：1962至1964年前后，浙江慈溪家中，人物年龄22至23岁，母亲鼓励他会好起来、要争气。时代细节：1960年代慈溪乡村卧室；建筑、门窗、床铺、桌椅均保持20世纪60年代浙东朴素生活质感；光线为煤油灯暖光与清晨微光；服装为20世纪60年代初浙东朴素蓝灰棉布衣裤、布鞋，不使用现代剪裁与面料；道具包括煤油灯、粗布被褥、旧木床。时代禁忌：避免智能手机、LED大屏、现代病房设备、现代高层住宅、现代塑料家具、当代潮流服饰。\nSubject: 青年茅理翔与母亲；定格动作结果：母亲用双手握紧青年的手。\nStyle/medium: 真实中国人物纪实摄影，photorealistic，暖金克制，非广告摆拍。\nComposition/framing: 横屏16:9，手部与双人近景，床侧平视，主体位于字幕安全区。\nLighting/mood: 煤油灯暖光与清晨微光，坚定的安慰。\nMaterials/textures: 真实皮肤、磨损棉布、旧木材和自然生活痕迹。\nConstraints: no text, no captions, no logo, no watermark, no split screen; single coherent moment; natural hands and body proportions; AI visual reconstruction, not an archival photograph; keep identity restrained and period-accurate. Avoid: 智能手机, LED大屏, 现代病房设备, 现代高层住宅, 现代塑料家具, 当代潮流服饰, plastic skin, extra fingers, glamour lighting, staged stock-photo look"
+  },
+  {
+    "shot_id": "shot-015",
+    "reference_key": "young",
+    "prompt": "Use case: historical-scene\nAsset type: 第五期《病魔缠身》视频脚本逐镜关键帧\nInput images: Image 1: 茅理翔青年时期样貌参考，仅负责面部与体态连续性；\nPrimary request: 心气重新抬头。青年在床上缓慢握紧被角，抬眼看向窗缝中出现的一线晨光。\nScene/backdrop: 1960年代慈溪乡村卧室清晨。故事背景：1962至1964年前后，浙江慈溪家中，人物年龄22至23岁，母亲的话让心中的争气重新升起。时代细节：1960年代慈溪乡村卧室清晨；建筑、门窗、床铺、桌椅均保持20世纪60年代浙东朴素生活质感；光线为晨光穿过木格窗形成暖金窄光；服装为20世纪60年代初浙东朴素蓝灰棉布衣裤、布鞋，不使用现代剪裁与面料；道具包括粗布被褥、木格窗、煤油灯。时代禁忌：避免智能手机、LED大屏、现代病房设备、现代高层住宅、现代塑料家具、当代潮流服饰。\nSubject: 22至23岁青年茅理翔；定格动作结果：青年从松开的手变为握紧被角。\nStyle/medium: 真实中国人物纪实摄影，photorealistic，暖金克制，非广告摆拍。\nComposition/framing: 横屏16:9，手部转面部近景，床沿低机位侧拍，主体位于字幕安全区。\nLighting/mood: 晨光穿过木格窗形成暖金窄光，重新生出意志。\nMaterials/textures: 真实皮肤、磨损棉布、旧木材和自然生活痕迹。\nConstraints: no text, no captions, no logo, no watermark, no split screen; single coherent moment; natural hands and body proportions; AI visual reconstruction, not an archival photograph; keep identity restrained and period-accurate. Avoid: 智能手机, LED大屏, 现代病房设备, 现代高层住宅, 现代塑料家具, 当代潮流服饰, plastic skin, extra fingers, glamour lighting, staged stock-photo look"
+  },
+  {
+    "shot_id": "shot-016",
+    "reference_key": "young",
+    "prompt": "Use case: historical-scene\nAsset type: 第五期《病魔缠身》视频脚本逐镜关键帧\nInput images: Image 1: 茅理翔青年时期样貌参考，仅负责面部与体态连续性；\nPrimary request: 六个月尽头仍无法站起。窗外季节已经更替，青年仍躺在同一张床上，床边布鞋积着薄尘。\nScene/backdrop: 1960年代慈溪乡村卧室。故事背景：1962至1964年前后，浙江慈溪家中，人物年龄22至23岁，接近卧床六个月仍不能下地。时代细节：1960年代慈溪乡村卧室；建筑、门窗、床铺、桌椅均保持20世纪60年代浙东朴素生活质感；光线为阴沉日光；服装为20世纪60年代初浙东朴素蓝灰棉布衣裤、布鞋，不使用现代剪裁与面料；道具包括布鞋、旧木床、木格窗。时代禁忌：避免智能手机、LED大屏、现代病房设备、现代高层住宅、现代塑料家具、当代潮流服饰。\nSubject: 22至23岁青年茅理翔；定格动作结果：青年伸手触碰床边布鞋却无法穿上。\nStyle/medium: 真实中国人物纪实摄影，photorealistic，暖金克制，非广告摆拍。\nComposition/framing: 横屏16:9，床边细节中景，斜俯拍，主体位于字幕安全区。\nLighting/mood: 阴沉日光，时间压迫与崩塌感。\nMaterials/textures: 真实皮肤、磨损棉布、旧木材和自然生活痕迹。\nConstraints: no text, no captions, no logo, no watermark, no split screen; single coherent moment; natural hands and body proportions; AI visual reconstruction, not an archival photograph; keep identity restrained and period-accurate. Avoid: 智能手机, LED大屏, 现代病房设备, 现代高层住宅, 现代塑料家具, 当代潮流服饰, plastic skin, extra fingers, glamour lighting, staged stock-photo look"
+  },
+  {
+    "shot_id": "shot-017",
+    "reference_key": "young",
+    "prompt": "Use case: historical-scene\nAsset type: 第五期《病魔缠身》视频脚本逐镜关键帧\nInput images: Image 1: 茅理翔青年时期样貌参考，仅负责面部与体态连续性；\nPrimary request: 被未来困在床边。青年从床上望向门外延伸的乡村小路，门槛近在眼前却无法跨过。\nScene/backdrop: 1960年代慈溪砖瓦房与门外土路。故事背景：1962至1964年前后，浙江慈溪家中，人物年龄22至23岁，担忧余生都无法下床。时代细节：1960年代慈溪砖瓦房与门外土路；建筑、门窗、床铺、桌椅均保持20世纪60年代浙东朴素生活质感；光线为门外明亮、室内压暗；服装为20世纪60年代初浙东朴素蓝灰棉布衣裤、布鞋，不使用现代剪裁与面料；道具包括木门槛、土路、布鞋。时代禁忌：避免智能手机、LED大屏、现代病房设备、现代高层住宅、现代塑料家具、当代潮流服饰。\nSubject: 22至23岁青年茅理翔；定格动作结果：青年撑起肩膀望向门外后停住。\nStyle/medium: 真实中国人物纪实摄影，photorealistic，暖金克制，非广告摆拍。\nComposition/framing: 横屏16:9，室内向外的深景构图，床头侧后方，主体位于字幕安全区。\nLighting/mood: 门外明亮、室内压暗，对未来的惶恐。\nMaterials/textures: 真实皮肤、磨损棉布、旧木材和自然生活痕迹。\nConstraints: no text, no captions, no logo, no watermark, no split screen; single coherent moment; natural hands and body proportions; AI visual reconstruction, not an archival photograph; keep identity restrained and period-accurate. Avoid: 智能手机, LED大屏, 现代病房设备, 现代高层住宅, 现代塑料家具, 当代潮流服饰, plastic skin, extra fingers, glamour lighting, staged stock-photo look"
+  },
+  {
+    "shot_id": "shot-018",
+    "reference_key": null,
+    "prompt": "Use case: photorealistic-natural\nAsset type: 第五期《病魔缠身》视频脚本逐镜关键帧\nPrimary request: 当代青年的无方向感。当代中国年轻人独坐普通出租屋书桌前，屏幕已熄灭，未写下内容的笔记本摊开。\nScene/backdrop: 当代城市普通出租屋夜晚。故事背景：当代，中国城市普通居住空间，人物年龄20多岁，年轻人感到人生无意义，不知该做什么。时代细节：当代城市普通出租屋夜晚；光线为窗外城市冷光与台灯暖光；服装为符合当代中国普通青年、家庭或职业语境的克制日常服装；道具包括熄屏手机、空白笔记本、台灯。时代禁忌：避免虚构品牌、未来科幻界面、夸张成功学符号。\nSubject: 一名二十多岁的当代中国青年；定格动作结果：年轻人放下手机并看向空白笔记本。\nStyle/medium: 真实中国人物纪实摄影，photorealistic，暖金克制，非广告摆拍。\nComposition/framing: 横屏16:9，中景，桌侧平视，主体位于字幕安全区。\nLighting/mood: 窗外城市冷光与台灯暖光，空虚与迷茫。\nMaterials/textures: 真实皮肤、磨损棉布、旧木材和自然生活痕迹。\nConstraints: no text, no captions, no logo, no watermark, no split screen; single coherent moment; natural hands and body proportions; contemporary Chinese documentary realism. Avoid: 虚构品牌, 未来科幻界面, 夸张成功学符号, plastic skin, extra fingers, glamour lighting, staged stock-photo look"
+  },
+  {
+    "shot_id": "shot-019",
+    "reference_key": "current",
+    "prompt": "Use case: photorealistic-natural\nAsset type: 第五期《病魔缠身》视频脚本逐镜关键帧\nInput images: Image 1: 茅理翔当前样貌参考，仅负责人物身份与面部连续性；\nPrimary request: 采访中连接两代困境。当代采访空间里，年长的茅理翔与年轻提问者相对而坐，提问者微微前倾，桌面保持简洁。\nScene/backdrop: 当代中国朴素采访室。故事背景：当代采访，中国室内采访空间，人物年龄茅理翔当前年龄、提问者青年，比较身体病痛与当代青年精神空虚。时代细节：当代中国朴素采访室；光线为柔和暖金侧光；服装为符合当代中国普通青年、家庭或职业语境的克制日常服装；道具包括无字提问卡、木桌、两把座椅。时代禁忌：避免虚构品牌、未来科幻界面、夸张成功学符号。\nSubject: 现在的茅理翔与年轻采访者；定格动作结果：年轻采访者放下提问卡并看向茅理翔。\nStyle/medium: 真实中国人物纪实摄影，photorealistic，暖金克制，非广告摆拍。\nComposition/framing: 横屏16:9，双人中景，侧面双人构图，主体位于字幕安全区。\nLighting/mood: 柔和暖金侧光，认真与现实。\nMaterials/textures: 真实皮肤、磨损棉布、旧木材和自然生活痕迹。\nConstraints: no text, no captions, no logo, no watermark, no split screen; single coherent moment; natural hands and body proportions; contemporary Chinese documentary realism. Avoid: 虚构品牌, 未来科幻界面, 夸张成功学符号, plastic skin, extra fingers, glamour lighting, staged stock-photo look"
+  },
+  {
+    "shot_id": "shot-020",
+    "reference_key": null,
+    "prompt": "Use case: photorealistic-natural\nAsset type: 第五期《病魔缠身》视频脚本逐镜关键帧\nPrimary request: 把志向写成一个方向。年轻人在清晨的木桌前翻到笔记本新页，写下一个清晰目标但画面不展示可读文字。\nScene/backdrop: 当代普通住宅书桌。故事背景：当代，中国城市普通住宅，人物年龄20多岁，确立志向并形成梦想。时代细节：当代普通住宅书桌；光线为清晨自然暖光；服装为符合当代中国普通青年、家庭或职业语境的克制日常服装；道具包括笔记本、中性笔、简单日历。时代禁忌：避免虚构品牌、未来科幻界面、夸张成功学符号。\nSubject: 一名当代中国青年；定格动作结果：年轻人握笔在新页写下目标。\nStyle/medium: 真实中国人物纪实摄影，photorealistic，暖金克制，非广告摆拍。\nComposition/framing: 横屏16:9，手部与侧脸近景，肩后斜俯拍，主体位于字幕安全区。\nLighting/mood: 清晨自然暖光，从混乱到明确。\nMaterials/textures: 真实皮肤、磨损棉布、旧木材和自然生活痕迹。\nConstraints: no text, no captions, no logo, no watermark, no split screen; single coherent moment; natural hands and body proportions; contemporary Chinese documentary realism. Avoid: 虚构品牌, 未来科幻界面, 夸张成功学符号, plastic skin, extra fingers, glamour lighting, staged stock-photo look"
+  },
+  {
+    "shot_id": "shot-021",
+    "reference_key": null,
+    "prompt": "Use case: photorealistic-natural\nAsset type: 第五期《病魔缠身》视频脚本逐镜关键帧\nPrimary request: 梦想变成当天行动。年轻人把写好的目标页放在桌前，随即拿起工具开始完成第一项实际任务。\nScene/backdrop: 当代小型工作台。故事背景：当代，中国城市小型工作空间，人物年龄20多岁，梦想转化为实现它的动力。时代细节：当代小型工作台；光线为上午明亮自然光；服装为符合当代中国普通青年、家庭或职业语境的克制日常服装；道具包括笔记本、基础工具、未完成的小型作品。时代禁忌：避免虚构品牌、未来科幻界面、夸张成功学符号。\nSubject: 一名当代中国青年；定格动作结果：年轻人拿起工具开始动手。\nStyle/medium: 真实中国人物纪实摄影，photorealistic，暖金克制，非广告摆拍。\nComposition/framing: 横屏16:9，半身中景，侧前方平视，主体位于字幕安全区。\nLighting/mood: 上午明亮自然光，专注与充实。\nMaterials/textures: 真实皮肤、磨损棉布、旧木材和自然生活痕迹。\nConstraints: no text, no captions, no logo, no watermark, no split screen; single coherent moment; natural hands and body proportions; contemporary Chinese documentary realism. Avoid: 虚构品牌, 未来科幻界面, 夸张成功学符号, plastic skin, extra fingers, glamour lighting, staged stock-photo look"
+  },
+  {
+    "shot_id": "shot-022",
+    "reference_key": null,
+    "prompt": "Use case: photorealistic-natural\nAsset type: 第五期《病魔缠身》视频脚本逐镜关键帧\nPrimary request: 能力在真实服务中产生价值。年轻技术员蹲在社区活动室，为老人修好一台日常小电器，老人露出安心神情。\nScene/backdrop: 当代中国社区活动室。故事背景：当代，中国普通社区，人物年龄20多岁，思考成为对社会和自身价值有用的人。时代细节：当代中国社区活动室；光线为柔和自然光；服装为符合当代中国普通青年、家庭或职业语境的克制日常服装；道具包括维修工具、小电器、木桌。时代禁忌：避免虚构品牌、未来科幻界面、夸张成功学符号。\nSubject: 年轻技术员与社区老人；定格动作结果：年轻人接通修好的小电器并确认正常运转。\nStyle/medium: 真实中国人物纪实摄影，photorealistic，暖金克制，非广告摆拍。\nComposition/framing: 横屏16:9，双人中景，桌面高度侧拍，主体位于字幕安全区。\nLighting/mood: 柔和自然光，有用与踏实。\nMaterials/textures: 真实皮肤、磨损棉布、旧木材和自然生活痕迹。\nConstraints: no text, no captions, no logo, no watermark, no split screen; single coherent moment; natural hands and body proportions; contemporary Chinese documentary realism. Avoid: 虚构品牌, 未来科幻界面, 夸张成功学符号, plastic skin, extra fingers, glamour lighting, staged stock-photo look"
+  },
+  {
+    "shot_id": "shot-023",
+    "reference_key": null,
+    "prompt": "Use case: photorealistic-natural\nAsset type: 第五期《病魔缠身》视频脚本逐镜关键帧\nPrimary request: 没有方向时停在原地。年轻人站在普通城市天桥分岔处，脚步停住，远处人流经过但不做夸张虚化。\nScene/backdrop: 当代城市清晨的人行天桥。故事背景：当代，中国城市公共空间，人物年龄20多岁，因没有志向而感到前途渺茫。时代细节：当代城市清晨的人行天桥；光线为清晨冷暖交界光；服装为符合当代中国普通青年、家庭或职业语境的克制日常服装；道具包括普通背包、道路标线。时代禁忌：避免虚构品牌、未来科幻界面、夸张成功学符号。\nSubject: 一名当代中国青年；定格动作结果：年轻人在岔路标线前停下脚步。\nStyle/medium: 真实中国人物纪实摄影，photorealistic，暖金克制，非广告摆拍。\nComposition/framing: 横屏16:9，全身远景，高位斜俯拍，主体位于字幕安全区。\nLighting/mood: 清晨冷暖交界光，停滞与犹疑。\nMaterials/textures: 真实皮肤、磨损棉布、旧木材和自然生活痕迹。\nConstraints: no text, no captions, no logo, no watermark, no split screen; single coherent moment; natural hands and body proportions; contemporary Chinese documentary realism. Avoid: 虚构品牌, 未来科幻界面, 夸张成功学符号, plastic skin, extra fingers, glamour lighting, staged stock-photo look"
+  },
+  {
+    "shot_id": "shot-024",
+    "reference_key": null,
+    "prompt": "Use case: photorealistic-natural\nAsset type: 第五期《病魔缠身》视频脚本逐镜关键帧\nPrimary request: 困难中仍向前推进。年轻研发人员在小型工作间调试失败后重新固定零件，设备指示灯终于稳定亮起。\nScene/backdrop: 当代中国小型研发工作间。故事背景：当代，中国小型研发工作间，人物年龄20至30岁，面对困难仍为梦想奋斗。时代细节：当代中国小型研发工作间；光线为深灰环境中的暖金工作灯；服装为符合当代中国普通青年、家庭或职业语境的克制日常服装；道具包括机械零件、螺丝刀、无文字设备。时代禁忌：避免虚构品牌、未来科幻界面、夸张成功学符号。\nSubject: 年轻研发人员；定格动作结果：重新固定零件后设备指示灯稳定亮起。\nStyle/medium: 真实中国人物纪实摄影，photorealistic，暖金克制，非广告摆拍。\nComposition/framing: 横屏16:9，中近景，工作台侧前方，主体位于字幕安全区。\nLighting/mood: 深灰环境中的暖金工作灯，艰辛中的喜悦。\nMaterials/textures: 真实皮肤、磨损棉布、旧木材和自然生活痕迹。\nConstraints: no text, no captions, no logo, no watermark, no split screen; single coherent moment; natural hands and body proportions; contemporary Chinese documentary realism. Avoid: 虚构品牌, 未来科幻界面, 夸张成功学符号, plastic skin, extra fingers, glamour lighting, staged stock-photo look"
+  },
+  {
+    "shot_id": "shot-025",
+    "reference_key": null,
+    "prompt": "Use case: photorealistic-natural\nAsset type: 第五期《病魔缠身》视频脚本逐镜关键帧\nPrimary request: 小工作间里的成果时刻。年轻创业者在简朴工作间看见第一件样品正常运行，疲惫的脸上出现克制微笑。\nScene/backdrop: 当代中国简朴创业工作间。故事背景：当代，中国小型创业空间，人物年龄20至30岁，创业艰辛，但因追求梦想而快乐。时代细节：当代中国简朴创业工作间；光线为夜晚工作灯与微弱窗光；服装为符合当代中国普通青年、家庭或职业语境的克制日常服装；道具包括无品牌样品、工作灯、工具箱。时代禁忌：避免虚构品牌、未来科幻界面、夸张成功学符号。\nSubject: 年轻创业者；定格动作结果：年轻人按下开关确认样品正常运行。\nStyle/medium: 真实中国人物纪实摄影，photorealistic，暖金克制，非广告摆拍。\nComposition/framing: 横屏16:9，人物与样品中景，低机位侧拍，主体位于字幕安全区。\nLighting/mood: 夜晚工作灯与微弱窗光，疲惫但快乐。\nMaterials/textures: 真实皮肤、磨损棉布、旧木材和自然生活痕迹。\nConstraints: no text, no captions, no logo, no watermark, no split screen; single coherent moment; natural hands and body proportions; contemporary Chinese documentary realism. Avoid: 虚构品牌, 未来科幻界面, 夸张成功学符号, plastic skin, extra fingers, glamour lighting, staged stock-photo look"
+  },
+  {
+    "shot_id": "shot-026",
+    "reference_key": null,
+    "prompt": "Use case: photorealistic-natural\nAsset type: 第五期《病魔缠身》视频脚本逐镜关键帧\nPrimary request: 理解之后仍由自己作出选择。年轻人与父母在普通家庭餐桌前安静沟通，年轻人把自己的计划本转向父母。\nScene/backdrop: 当代中国普通家庭餐厅。故事背景：当代，中国普通家庭，人物年龄青年与中年父母，理解社会与父母，同时由自己确立梦想。时代细节：当代中国普通家庭餐厅；光线为傍晚居家暖光；服装为符合当代中国普通青年、家庭或职业语境的克制日常服装；道具包括无字计划本、家常餐桌、茶杯。时代禁忌：避免虚构品牌、未来科幻界面、夸张成功学符号。\nSubject: 年轻人与父母；定格动作结果：年轻人把计划本推到父母面前。\nStyle/medium: 真实中国人物纪实摄影，photorealistic，暖金克制，非广告摆拍。\nComposition/framing: 横屏16:9，三人中景，餐桌侧面平视，主体位于字幕安全区。\nLighting/mood: 傍晚居家暖光，包容与自主。\nMaterials/textures: 真实皮肤、磨损棉布、旧木材和自然生活痕迹。\nConstraints: no text, no captions, no logo, no watermark, no split screen; single coherent moment; natural hands and body proportions; contemporary Chinese documentary realism. Avoid: 虚构品牌, 未来科幻界面, 夸张成功学符号, plastic skin, extra fingers, glamour lighting, staged stock-photo look"
+  },
+  {
+    "shot_id": "shot-027",
+    "reference_key": null,
+    "prompt": "Use case: photorealistic-natural\nAsset type: 第五期《病魔缠身》视频脚本逐镜关键帧\nPrimary request: 方向使脚步连续起来。清晨，年轻人系紧鞋带后带着工作包走出家门，步伐明确而不夸张。\nScene/backdrop: 当代普通住宅楼道与街道。故事背景：当代，中国普通城市社区，人物年龄20多岁，立志带来持续前进的动力。时代细节：当代普通住宅楼道与街道；光线为清晨暖金自然光；服装为符合当代中国普通青年、家庭或职业语境的克制日常服装；道具包括工作包、运动鞋、普通门锁。时代禁忌：避免虚构品牌、未来科幻界面、夸张成功学符号。\nSubject: 一名当代中国青年；定格动作结果：年轻人系紧鞋带后起身出门。\nStyle/medium: 真实中国人物纪实摄影，photorealistic，暖金克制，非广告摆拍。\nComposition/framing: 横屏16:9，脚部近景转全身中景，门口低机位，主体位于字幕安全区。\nLighting/mood: 清晨暖金自然光，有方向的力量。\nMaterials/textures: 真实皮肤、磨损棉布、旧木材和自然生活痕迹。\nConstraints: no text, no captions, no logo, no watermark, no split screen; single coherent moment; natural hands and body proportions; contemporary Chinese documentary realism. Avoid: 虚构品牌, 未来科幻界面, 夸张成功学符号, plastic skin, extra fingers, glamour lighting, staged stock-photo look"
+  },
+  {
+    "shot_id": "shot-028",
+    "reference_key": "young",
+    "prompt": "Use case: historical-scene\nAsset type: 第五期《病魔缠身》视频脚本逐镜关键帧\nInput images: Image 1: 茅理翔青年时期样貌参考，仅负责面部与体态连续性；\nPrimary request: 床边重新出现的晨光。年轻病人仍躺在旧木床上，却抬头望向被晨光照亮的门口，母亲的手轻放在床沿。\nScene/backdrop: 1960年代慈溪乡村砖瓦房卧室清晨。故事背景：1962至1964年前后，浙江慈溪家中，人物年龄22至23岁，结尾追问他如何重新找到勇气和希望。时代细节：1960年代慈溪乡村砖瓦房卧室清晨；建筑、门窗、床铺、桌椅均保持20世纪60年代浙东朴素生活质感；光线为暖金晨光穿过旧木门；服装为20世纪60年代初浙东朴素蓝灰棉布衣裤、布鞋，不使用现代剪裁与面料；道具包括旧木床、粗布被褥、煤油灯、旧木门。时代禁忌：避免智能手机、LED大屏、现代病房设备、现代高层住宅、现代塑料家具、当代潮流服饰。\nSubject: 22至23岁青年茅理翔与母亲的手；定格动作结果：青年抬头看向逐渐明亮的门口。\nStyle/medium: 真实中国人物纪实摄影，photorealistic，暖金克制，非广告摆拍。\nComposition/framing: 横屏16:9，床尾中远景，低机位正侧结合，主体位于字幕安全区。\nLighting/mood: 暖金晨光穿过旧木门，悬念与重燃希望。\nMaterials/textures: 真实皮肤、磨损棉布、旧木材和自然生活痕迹。\nConstraints: no text, no captions, no logo, no watermark, no split screen; single coherent moment; natural hands and body proportions; AI visual reconstruction, not an archival photograph; keep identity restrained and period-accurate. Avoid: 智能手机, LED大屏, 现代病房设备, 现代高层住宅, 现代塑料家具, 当代潮流服饰, plastic skin, extra fingers, glamour lighting, staged stock-photo look"
+  }
+]

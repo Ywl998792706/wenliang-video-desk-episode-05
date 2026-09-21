@@ -1,0 +1,26 @@
+{
+  "episode": "02",
+  "title": "第二期｜父亲创业：从破布起家到家族工业梦｜故事增强版",
+  "source_file": "第二期字幕.txt",
+  "source_sha256": "0d864de60ddf6d330108ad3c20ee5fb63617f1f13ed961cb77a442e6992d6600",
+  "effective_chars": 845,
+  "estimated_seconds": 211.25,
+  "primary_shots": 33,
+  "huazi": 17,
+  "coverage": 0.5822,
+  "expression_methods": {
+    "object_metaphor": 5,
+    "reenactment": 28
+  },
+  "ai_reconstructions": 33,
+  "named_asset_shots": 19,
+  "keyframes": 33,
+  "qa_score": 100,
+  "qa_passed": true,
+  "warnings": [
+    "统计信息：有效字符845，参考主镜头35、计划区间31–35、实际33，目标花字17、实际17，主B-roll覆盖率58.2%"
+  ],
+  "schema_version": "3.5",
+  "aspect_ratio": "16:9",
+  "keyframes_identity_reference_missing": 19
+}

@@ -1,0 +1,19 @@
+{
+  "project_id": "teacher-day-three-teachers-short-drama",
+  "title": "教师节｜茅老师最感谢的三位“老师”｜AI短剧版",
+  "schema_version": "3.4",
+  "estimated_speech_seconds": 119.5,
+  "primary_shots": 34,
+  "huazi": 10,
+  "broll_seconds": 116.25,
+  "broll_coverage_percent": 97.3,
+  "ai_reconstruction_shots": 20,
+  "named_asset_handles": [
+    "@中年董事长",
+    "@现在董事长",
+    "@董事长父亲",
+    "@青年董事长"
+  ],
+  "qa_passed": true,
+  "qa_score": 100
+}

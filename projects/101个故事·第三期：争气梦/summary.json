@@ -1,0 +1,27 @@
+{
+  "episode": "03",
+  "title": "第三期｜争气梦：150斤谷子刻下的人生动力｜故事增强版",
+  "source_file": "第三期字幕.txt",
+  "source_sha256": "5e9cdcdbb6c7f2f5e80feb585c72d8c9c2ec35d30915fd3bbf8afcf973160955",
+  "effective_chars": 871,
+  "estimated_seconds": 217.4,
+  "primary_shots": 36,
+  "huazi": 17,
+  "coverage": 0.621,
+  "expression_methods": {
+    "reenactment": 30,
+    "object_metaphor": 5,
+    "infographic": 1
+  },
+  "ai_reconstructions": 20,
+  "named_asset_shots": 17,
+  "keyframes": 36,
+  "qa_score": 100,
+  "qa_passed": true,
+  "warnings": [
+    "统计信息：有效字符871，参考主镜头36、计划区间34–38、实际36，目标花字17、实际17，主B-roll覆盖率62.1%"
+  ],
+  "schema_version": "3.5",
+  "aspect_ratio": "16:9",
+  "keyframes_identity_reference_missing": 20
+}

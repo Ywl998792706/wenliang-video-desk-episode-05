@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0",
+  "site_title": "靓仔的脚本工作台",
+  "updated_at": "2026-09-21",
+  "project_count": 11,
+  "image_count": 201,
+  "projects": [
+    {"title":"101个故事·第二期：父亲创业","folder":"101个故事·第二期：父亲创业","category":"101个故事","image_count":33,"entry":"projects/101个故事·第二期：父亲创业/index.html"},
+    {"title":"101个故事·第三期：争气梦","folder":"101个故事·第三期：争气梦","category":"101个故事","image_count":36,"entry":"projects/101个故事·第三期：争气梦/index.html"},
+    {"title":"101个故事·第四期：实业报国的种子","folder":"101个故事·第四期：实业报国的种子","category":"101个故事","image_count":50,"entry":"projects/101个故事·第四期：实业报国的种子/index.html"},
+    {"title":"101个故事·第五期：病魔缠身","folder":"101个故事·第五期：病魔缠身","category":"101个故事","image_count":30,"entry":"projects/101个故事·第五期：病魔缠身/index.html"},
+    {"title":"101个故事·第六期：病瘫三年","folder":"101个故事·第六期：病瘫三年","category":"101个故事","image_count":46,"entry":"projects/101个故事·第六期：病瘫三年/index.html"},
+    {"title":"教师节：茅老师最感谢的三位老师","folder":"教师节：茅老师最感谢的三位老师","category":"专题脚本","image_count":0,"entry":"projects/教师节：茅老师最感谢的三位老师/index.html"},
+    {"title":"第09节：两代如何达成共识","folder":"第09节：两代如何达成共识","category":"9—13节课程","image_count":2,"entry":"projects/第09节：两代如何达成共识/index.html"},
+    {"title":"第10节：传承与转型同步走","folder":"第10节：传承与转型同步走","category":"9—13节课程","image_count":2,"entry":"projects/第10节：传承与转型同步走/index.html"},
+    {"title":"第11节：家族成为企业精神之光","folder":"第11节：家族成为企业精神之光","category":"9—13节课程","image_count":1,"entry":"projects/第11节：家族成为企业精神之光/index.html"},
+    {"title":"第12节：点火者与恒星系统","folder":"第12节：点火者与恒星系统","category":"9—13节课程","image_count":1,"entry":"projects/第12节：点火者与恒星系统/index.html"},
+    {"title":"第13节：终章","folder":"第13节：终章","category":"9—13节课程","image_count":0,"entry":"projects/第13节：终章/index.html"}
+  ]
+}

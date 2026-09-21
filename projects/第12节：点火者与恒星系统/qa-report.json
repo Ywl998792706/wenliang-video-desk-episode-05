@@ -1,0 +1,74 @@
+{
+  "schema_version": "1.1",
+  "plan_schema_version": "3.4",
+  "passed": true,
+  "score": 100,
+  "metrics": {
+    "primary_shots": 43,
+    "distinct_visual_concepts": 43,
+    "distinct_novelty_keys": 43,
+    "shot_size_distribution": {
+      "环境全景转人物中景": 2,
+      "物件特写": 3,
+      "上下分层全景": 4,
+      "左右对照中景": 4,
+      "全画幅结构全景": 7,
+      "中心结构中景": 5,
+      "俯拍全景": 4,
+      "近景与手部细节": 3,
+      "桌面中近景": 3,
+      "中景双人关系构图": 2,
+      "中近景单主体": 2,
+      "保留档案原始构图": 1,
+      "全身中远景": 2,
+      "主物中景与材质细节": 1
+    },
+    "camera_angle_distribution": {
+      "平视三分之二侧面": 2,
+      "低机位与物件齐平": 3,
+      "正视对称机位": 4,
+      "正视平行机位": 4,
+      "正视无透视机位": 7,
+      "正视居中机位": 5,
+      "垂直俯拍无透视变形": 4,
+      "略低于视线的侧拍机位": 3,
+      "三十度侧俯拍": 3,
+      "与桌面齐高的侧前方机位": 2,
+      "肩后视角对准主动作": 2,
+      "不改变档案视角": 1,
+      "略偏轴线的平视机位": 2,
+      "四十五度侧前方机位": 1
+    },
+    "text_visual_alignment": {
+      "passed": 43,
+      "total": 43
+    },
+    "necessity_gate": {
+      "passed": 43,
+      "total": 43
+    },
+    "prompt_mode_independence": {
+      "passed": 42,
+      "total": 42
+    },
+    "jimeng_feasibility": {
+      "passed": 42,
+      "total": 42
+    },
+    "continuity": {
+      "passed_group_members": 0,
+      "groups": 0
+    },
+    "ai_risk_control": {
+      "passed": 43,
+      "total": 43
+    },
+    "execution_complete": {
+      "passed": 43,
+      "total": 43
+    },
+    "errors": 0,
+    "warnings": 0
+  },
+  "issues": []
+}
