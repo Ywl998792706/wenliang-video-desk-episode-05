@@ -23,7 +23,10 @@
                  ],
     "schema_version":  "3.6",
     "aspect_ratio":  "16:9",
-    "keyframes_identity_reference_missing":  19,
+    "keyframes_identity_reference_missing":  0,
+    "keyframes_identity_reference_verified":  19,
+    "keyframe_revision":  "02/03",
+    "archived_keyframes":  48,
     "skill_version":  "3.8",
     "historical_story_backgrounds":  22
 }
