@@ -90,6 +90,14 @@
       "passed": 33,
       "total": 33
     },
+    "historical_context": {
+      "passed": 0,
+      "total": 0
+    },
+    "jimeng_text_safety": {
+      "passed": 33,
+      "total": 33
+    },
     "execution_complete": {
       "passed": 33,
       "total": 33

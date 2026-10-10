@@ -65,6 +65,10 @@
       "passed": 8,
       "total": 8
     },
+    "jimeng_text_safety": {
+      "passed": 50,
+      "total": 50
+    },
     "execution_complete": {
       "passed": 50,
       "total": 50

@@ -101,6 +101,14 @@
       "passed": 36,
       "total": 36
     },
+    "historical_context": {
+      "passed": 0,
+      "total": 0
+    },
+    "jimeng_text_safety": {
+      "passed": 36,
+      "total": 36
+    },
     "execution_complete": {
       "passed": 36,
       "total": 36
