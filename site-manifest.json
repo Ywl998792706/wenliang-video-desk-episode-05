@@ -4,6 +4,18 @@
   "updated_at": "2026-10-14",
   "project_count": 13,
   "image_count": 455,
+  "revisions": [
+    {
+      "id": "lesson12-13-20261014",
+      "title": "第12、13节 · 写实B-roll提示词修订",
+      "entry": "revisions/lesson12-13-20261014/index.html",
+      "date": "2026-10-14",
+      "type": "prompt_revision",
+      "new_images": 0,
+      "new_videos": 0,
+      "originals_preserved": true
+    }
+  ],
   "projects": [
     {
       "title": "101个故事·第二期：父亲创业",
