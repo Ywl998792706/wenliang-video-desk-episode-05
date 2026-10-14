@@ -1,0 +1,225 @@
+{
+  "schema_version": "1.1",
+  "plan_schema_version": "3.8",
+  "review_scope": "结构、已记录导演审核与制作约束检查；字符串匹配不等于文画语义正确",
+  "passed": true,
+  "score": 40,
+  "metrics": {
+    "primary_shots": 20,
+    "distinct_visual_concepts": 20,
+    "distinct_novelty_keys": 20,
+    "shot_size_distribution": {
+      "中景": 7,
+      "全景": 8,
+      "特写": 2,
+      "近景": 2,
+      "大特写": 1
+    },
+    "camera_angle_distribution": {
+      "平视": 9,
+      "微俯拍": 5,
+      "俯拍": 4,
+      "低机位": 2
+    },
+    "text_visual_alignment": {
+      "passed": 20,
+      "total": 20
+    },
+    "necessity_gate": {
+      "passed": 20,
+      "total": 20
+    },
+    "prompt_mode_independence": {
+      "passed": 20,
+      "total": 20
+    },
+    "libtv_feasibility": {
+      "passed": 20,
+      "total": 20
+    },
+    "director_content_match_record": {
+      "passed": 20,
+      "total": 20
+    },
+    "continuity": {
+      "passed_group_members": 20,
+      "groups": 20
+    },
+    "ai_risk_control": {
+      "passed": 20,
+      "total": 20
+    },
+    "historical_context": {
+      "passed": 0,
+      "total": 0
+    },
+    "execution_complete": {
+      "passed": 20,
+      "total": 20
+    },
+    "errors": 0,
+    "warnings": 20
+  },
+  "issues": [
+    {
+      "code": "libtv_asset_or_input_pending",
+      "severity": "warning",
+      "message": "lesson12-shot-001 图生视频须绑定该镜头场景首帧，不可把人物三视图拼版直接作为故事首帧",
+      "shot_ids": [
+        "lesson12-shot-001"
+      ]
+    },
+    {
+      "code": "libtv_asset_or_input_pending",
+      "severity": "warning",
+      "message": "lesson12-shot-002 图生视频须绑定该镜头场景首帧，不可把人物三视图拼版直接作为故事首帧",
+      "shot_ids": [
+        "lesson12-shot-002"
+      ]
+    },
+    {
+      "code": "libtv_asset_or_input_pending",
+      "severity": "warning",
+      "message": "lesson12-shot-003 图生视频须绑定该镜头场景首帧，不可把人物三视图拼版直接作为故事首帧",
+      "shot_ids": [
+        "lesson12-shot-003"
+      ]
+    },
+    {
+      "code": "libtv_asset_or_input_pending",
+      "severity": "warning",
+      "message": "lesson12-shot-004 图生视频须绑定该镜头场景首帧，不可把人物三视图拼版直接作为故事首帧",
+      "shot_ids": [
+        "lesson12-shot-004"
+      ]
+    },
+    {
+      "code": "libtv_asset_or_input_pending",
+      "severity": "warning",
+      "message": "lesson12-shot-005 图生视频须绑定该镜头场景首帧，不可把人物三视图拼版直接作为故事首帧",
+      "shot_ids": [
+        "lesson12-shot-005"
+      ]
+    },
+    {
+      "code": "libtv_asset_or_input_pending",
+      "severity": "warning",
+      "message": "lesson12-shot-006 图生视频须绑定该镜头场景首帧，不可把人物三视图拼版直接作为故事首帧",
+      "shot_ids": [
+        "lesson12-shot-006"
+      ]
+    },
+    {
+      "code": "libtv_asset_or_input_pending",
+      "severity": "warning",
+      "message": "lesson12-shot-007 图生视频须绑定该镜头场景首帧，不可把人物三视图拼版直接作为故事首帧",
+      "shot_ids": [
+        "lesson12-shot-007"
+      ]
+    },
+    {
+      "code": "libtv_asset_or_input_pending",
+      "severity": "warning",
+      "message": "lesson12-shot-008 图生视频须绑定该镜头场景首帧，不可把人物三视图拼版直接作为故事首帧",
+      "shot_ids": [
+        "lesson12-shot-008"
+      ]
+    },
+    {
+      "code": "libtv_asset_or_input_pending",
+      "severity": "warning",
+      "message": "lesson12-shot-009 图生视频须绑定该镜头场景首帧，不可把人物三视图拼版直接作为故事首帧",
+      "shot_ids": [
+        "lesson12-shot-009"
+      ]
+    },
+    {
+      "code": "libtv_asset_or_input_pending",
+      "severity": "warning",
+      "message": "lesson12-shot-010 图生视频须绑定该镜头场景首帧，不可把人物三视图拼版直接作为故事首帧",
+      "shot_ids": [
+        "lesson12-shot-010"
+      ]
+    },
+    {
+      "code": "libtv_asset_or_input_pending",
+      "severity": "warning",
+      "message": "lesson12-shot-011 图生视频须绑定该镜头场景首帧，不可把人物三视图拼版直接作为故事首帧",
+      "shot_ids": [
+        "lesson12-shot-011"
+      ]
+    },
+    {
+      "code": "libtv_asset_or_input_pending",
+      "severity": "warning",
+      "message": "lesson12-shot-012 图生视频须绑定该镜头场景首帧，不可把人物三视图拼版直接作为故事首帧",
+      "shot_ids": [
+        "lesson12-shot-012"
+      ]
+    },
+    {
+      "code": "libtv_asset_or_input_pending",
+      "severity": "warning",
+      "message": "lesson12-shot-013 图生视频须绑定该镜头场景首帧，不可把人物三视图拼版直接作为故事首帧",
+      "shot_ids": [
+        "lesson12-shot-013"
+      ]
+    },
+    {
+      "code": "libtv_asset_or_input_pending",
+      "severity": "warning",
+      "message": "lesson12-shot-014 图生视频须绑定该镜头场景首帧，不可把人物三视图拼版直接作为故事首帧",
+      "shot_ids": [
+        "lesson12-shot-014"
+      ]
+    },
+    {
+      "code": "libtv_asset_or_input_pending",
+      "severity": "warning",
+      "message": "lesson12-shot-015 图生视频须绑定该镜头场景首帧，不可把人物三视图拼版直接作为故事首帧",
+      "shot_ids": [
+        "lesson12-shot-015"
+      ]
+    },
+    {
+      "code": "libtv_asset_or_input_pending",
+      "severity": "warning",
+      "message": "lesson12-shot-016 图生视频须绑定该镜头场景首帧，不可把人物三视图拼版直接作为故事首帧",
+      "shot_ids": [
+        "lesson12-shot-016"
+      ]
+    },
+    {
+      "code": "libtv_asset_or_input_pending",
+      "severity": "warning",
+      "message": "lesson12-shot-017 图生视频须绑定该镜头场景首帧，不可把人物三视图拼版直接作为故事首帧",
+      "shot_ids": [
+        "lesson12-shot-017"
+      ]
+    },
+    {
+      "code": "libtv_asset_or_input_pending",
+      "severity": "warning",
+      "message": "lesson12-shot-018 图生视频须绑定该镜头场景首帧，不可把人物三视图拼版直接作为故事首帧",
+      "shot_ids": [
+        "lesson12-shot-018"
+      ]
+    },
+    {
+      "code": "libtv_asset_or_input_pending",
+      "severity": "warning",
+      "message": "lesson12-shot-019 图生视频须绑定该镜头场景首帧，不可把人物三视图拼版直接作为故事首帧",
+      "shot_ids": [
+        "lesson12-shot-019"
+      ]
+    },
+    {
+      "code": "libtv_asset_or_input_pending",
+      "severity": "warning",
+      "message": "lesson12-shot-020 图生视频须绑定该镜头场景首帧，不可把人物三视图拼版直接作为故事首帧",
+      "shot_ids": [
+        "lesson12-shot-020"
+      ]
+    }
+  ]
+}
