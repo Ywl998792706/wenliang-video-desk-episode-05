@@ -1,5 +1,5 @@
 {
-  "policy_version": "2.0.1",
+  "policy_version": "2.0.2",
   "effective_date": "2026-10-15",
   "skill_display_name": "liang-script2.0-skill",
   "scope": "后续新脚本、B-roll与图片和视频提示词；旧项目不自动重做或追溯标为已审",
@@ -24,6 +24,14 @@
   "video_workflow": "LibTV + Seedance 2.0 Fast",
   "video_requirements": ["实际图片作首帧或尾帧", "初始状态", "动作和元素出现顺序", "动效与运镜", "结束状态及停留", "准确中文后期添加", "执行前核验平台能力"],
   "delivery": ["理解摘要", "审读状态和结论摘要", "逐镜文画对应", "图片和提示词", "真实生成状态", "按标题归档并保留原图"],
+  "compact_delivery": {
+    "remove_from_script": ["渲染提醒", "效果质量报告", "QA分数", "重复理由", "空字段", "内部连续性编号"],
+    "execution_brief": ["动作", "镜头", "切点", "叠字"],
+    "always_keep": ["原文", "参考图", "首尾帧角色", "可复制图片和视频提示词", "必要未完成项"],
+    "optional_details": ["内容概要", "文画对应依据", "生成约束", "补充参考"],
+    "internal_checks": "审读与质检继续完整执行，详细记录另存，主脚本只展示简短真实状态",
+    "migration_scope": "本次只精简当前第13节；此规则适用于后续新脚本，其他旧项目不自动改动"
+  },
   "privacy": "内部线程ID、本机绝对路径、账号秘密和未授权原始知识资料不写入公开工作台",
   "change_control": "改变已确认风格、原稿内容或长期规则前需用户确认"
 }

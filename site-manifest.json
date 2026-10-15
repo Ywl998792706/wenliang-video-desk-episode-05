@@ -3,7 +3,7 @@
   "site_title": "靓仔的脚本工作台",
   "updated_at": "2026-10-15",
   "creation_policy": {
-    "version": "2.0.1",
+    "version": "2.0.2",
     "entry": "index.html#creation-rules",
     "machine_readable": "creation-policy.json",
     "applies_to": "future_creations",
