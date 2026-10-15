@@ -1,0 +1,29 @@
+{
+  "policy_version": "2.0.1",
+  "effective_date": "2026-10-15",
+  "skill_display_name": "liang-script2.0-skill",
+  "scope": "后续新脚本、B-roll与图片和视频提示词；旧项目不自动重做或追溯标为已审",
+  "site_capability": "静态资料工作台；准则由创作任务执行，网页本身不自动调用Agent或生成媒体",
+  "ordered_workflow": ["通读完整原稿和上下文", "全文理解与逐镜语义草案", "董事长Agent实际审读", "处理疑问并核对文画对应", "编写图片和视频提示词", "生成验收与归档"],
+  "understanding_required": ["全文核心论点", "逐段论证关系", "概念含义与边界", "人物与年代", "依据与不确定项"],
+  "chairman_review": {
+    "required_before_formal_prompts": true,
+    "role": "内容与语义顾问，不是茅理翔本人或本人背书",
+    "inputs": ["完整原稿及版本", "全文理解稿", "逐镜语义草案", "具体疑问"],
+    "record": ["原稿及镜头版本", "实际参与记录", "Agent及资料版本", "审读范围", "真实反馈和来源定位", "逐镜意见处理", "未解决问题"],
+    "statuses": ["pending", "needs_clarification", "passed"],
+    "unavailable": "标待审，请用户转交真实审读或明确批准本次例外；不得模拟参与或编造通过",
+    "recheck_on": ["原稿内容变更", "人物或事实变更", "镜头动作含义变更", "图形关系或结论变更"],
+    "reuse": "相同原稿、上下文和语义方案可复用真实审读，技术性调整不必重审全文"
+  },
+  "shot_alignment_required": ["原句与定位", "准确含义", "可见画面证据", "关系类型", "误读风险", "审读意见与处理", "切入切出"],
+  "separate_review_stages": ["内容审读", "镜头语义审读", "生成效果检查"],
+  "status_honesty": "部分通过不能宣称整稿通过，未生成不能标效果通过；不适合配图时保留老师口播",
+  "image_styles": ["natural_documentary_realism", "warm_white_editorial_diagram"],
+  "image_provider": "GPT",
+  "video_workflow": "LibTV + Seedance 2.0 Fast",
+  "video_requirements": ["实际图片作首帧或尾帧", "初始状态", "动作和元素出现顺序", "动效与运镜", "结束状态及停留", "准确中文后期添加", "执行前核验平台能力"],
+  "delivery": ["理解摘要", "审读状态和结论摘要", "逐镜文画对应", "图片和提示词", "真实生成状态", "按标题归档并保留原图"],
+  "privacy": "内部线程ID、本机绝对路径、账号秘密和未授权原始知识资料不写入公开工作台",
+  "change_control": "改变已确认风格、原稿内容或长期规则前需用户确认"
+}

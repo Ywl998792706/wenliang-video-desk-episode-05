@@ -61,6 +61,14 @@
     .empty{display:none;margin:44px 0;padding:34px;border:1px dashed #bdb3a1;border-radius:22px;text-align:center;color:var(--muted);background:rgba(255,255,255,.35)}
     footer{margin-top:48px;padding:24px 4px 0;border-top:1px solid #cec7b9;color:var(--muted);font-size:13px;line-height:1.8}
     .folder-rule{color:#8b6125;font-weight:700}
+    .creation-rules{margin:20px 0;padding:22px;border:1px solid var(--line);border-radius:18px;background:var(--paper);scroll-margin-top:100px}
+    .creation-rules h2{margin:0 0 8px;font-size:22px}
+    .creation-rules p,.creation-rules li{line-height:1.8;color:var(--muted)}
+    .creation-rules .rule-flow{color:var(--ink);font-weight:700;margin:8px 0}
+    .creation-rules summary{cursor:pointer;font-weight:700;color:#8b6125;padding:10px 0}
+    .creation-rules summary:focus-visible{outline:2px solid var(--gold);outline-offset:4px}
+    .creation-rules ol{padding-left:24px}.creation-rules li+li{margin-top:8px}
+    .creation-rules .rule-note{font-size:13px}.creation-rules a{text-underline-offset:3px}
     [hidden]{display:none!important}
     @media(max-width:980px){.grid{grid-template-columns:repeat(2,minmax(0,1fr))}.hero{padding:44px 38px}.toolbar{align-items:stretch;flex-direction:column;top:6px}.filters{width:100%}}
     @media(max-width:640px){.wrap{width:min(100% - 20px,1220px);padding-top:10px}.hero{min-height:0;padding:34px 24px;border-radius:24px}.eyebrow{font-size:12px}.hero-copy{font-size:15px}.grid{grid-template-columns:1fr}.section-head{align-items:start;flex-direction:column;gap:4px}.toolbar{border-radius:16px}.filter{padding:10px 12px}.desc{min-height:0}}
@@ -85,6 +93,25 @@
       <strong>第 12、13 节 · 写实 B-roll 提示词修订</strong>
       <p style="margin:6px 0 10px;line-height:1.7">原句对应、真实照片用法与 LibTV 提示词已独立整理。此入口为提示词修订，尚未生成新版图片或视频；原稿和历史图片保留。</p>
       <a href="revisions/lesson12-13-20261014/index.html">打开本轮写实修订稿 →</a>
+    </section>
+    <section class="creation-rules" id="creation-rules" aria-labelledby="rules-title">
+      <h2 id="rules-title">后续创作准则</h2>
+      <p class="rule-flow">通读全文 → 董事长 Agent 审读 → 逐镜文画核对 → 编写提示词 → 生成与验收</p>
+      <p>先把文案讲的意思理解完整，再决定画什么。内容未审清、画面会造成误读，就不进入正式提示词与生成。</p>
+      <details id="creation-rules-details">
+        <summary>查看内容审读与影像生成规则</summary>
+        <ol>
+          <li><strong>先理解完整内容。</strong>读完整原稿与上下文，梳理全文主旨、逐段逻辑、概念边界、人物年代与疑问；不只看标题或关键词，不改原文。</li>
+          <li><strong>董事长 Agent 必须实际参与。</strong>审读全文理解与 B-roll 语义草案，核对观点、事实依据、适用条件和误读风险。它是内容顾问，不是茅理翔本人，也不代表本人背书。</li>
+          <li><strong>每个画面都要有对应理由。</strong>记录“原句—意思—可见证据—误读风险—意见处理”。共同创业不能只拍交公章；系统运行不能表现成无人负责；并列分类不能擅自连成因果。</li>
+          <li><strong>有记录才算审读。</strong>记录原稿及镜头版本、实际反馈和逐镜处理结果。内容审读、镜头语义审读、生成效果检查分开显示；部分通过不等于整稿通过，未生成不等于效果通过。关键疑问未解决不标“通过”；含义改变后重审。Agent 不可用时，请用户转交真实意见或明确批准本次例外，不模拟其参与。</li>
+          <li><strong>沿用两种已确认风格。</strong>真实场景用自然纪实写实，结构和关系用暖白极简图解。真实档案优先；人物身份、年龄和历史环境分别核对，匿名人物不冒充茅氏人物。</li>
+          <li><strong>图片与视频分工清楚。</strong>GPT 图片明确作首帧或尾帧；LibTV + Seedance 2.0 Fast 视频提示词写清初始状态、出现顺序、动作与动效、镜头和结尾停留。准确中文由后期添加。</li>
+          <li><strong>先验收再归档。</strong>新项目展示理解摘要、审读状态及文画对应；图片按脚本大标题归档，保留原图。改变风格或长期内容规则前先确认，旧脚本不自动重做。</li>
+        </ol>
+        <p class="rule-note">适用于后续新创作 · 准则版本 2.0.1 · 2026-10-15。本站是静态资料工作台：展示准则和创作记录，不会在网页后台自动调用 Agent。未声称旧项目已按新准则复审。内部审读证据只留本地，不公开私人资料。</p>
+        <a href="creation-policy.json" download>下载后续创作准则</a>
+      </details>
     </section>
     <div class="toolbar" aria-label="项目筛选">
       <input class="search" id="projectSearch" type="search" placeholder="搜索标题、期数或主题…" aria-label="搜索项目">
@@ -170,7 +197,7 @@
     <p class="empty" id="emptyState">没有找到匹配的脚本项目，请换一个关键词。</p>
 
     <footer>
-      <strong>固定归档规则：</strong>今后每个新脚本都在 <span class="folder-rule">projects／脚本大标题／</span> 下建立独立文件夹，脚本、分镜图、提示词与质检文件放在一起；首页同步增加项目卡片。页面为公开静态工作台，不保存账号或本机绝对路径。
+      <strong>固定归档规则：</strong>今后每个新脚本都在 <span class="folder-rule">projects／脚本大标题／</span> 下建立独立文件夹，脚本、分镜图、提示词与质检文件放在一起；首页同步增加项目卡片。创作前执行<a href="#creation-rules">内容理解与董事长 Agent 审读准则</a>。页面为公开静态工作台，不保存账号或本机绝对路径。
     </footer>
   </main>
   <script>
